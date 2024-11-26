@@ -85,8 +85,8 @@ li a:hover {
 }
 
 .item img {
-    width: 100%;
-    height: auto;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
     border-radius: 8px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -104,7 +104,8 @@ li a:hover {
 
 .imagem-redonda {
     border-radius: 50%;
-    width: 40%;
+    width: 30%;
+    height: 30%;
     height: auto;
     object-fit: cover;
     margin: 1rem auto;
